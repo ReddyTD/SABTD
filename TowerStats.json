@@ -738,7 +738,7 @@
     "Astral Foxy": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781119726",
-        "Rarity": "Secret",
+        "Rarity": "Rare",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
