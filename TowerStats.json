@@ -3288,6 +3288,45 @@
             }
         ]
     },
+    "Champion Music Man": {
+        "Type": "AOE",
+        "Image": "rbxassetid://18975916197",
+        "Rarity": "Nightmare",
+        "PlacePrice": 48000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 42000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 60000,
+                "Range": 35,
+                "Damage": 48000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 72000,
+                "Range": 40,
+                "Damage": 54000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 84000,
+                "Range": 45,
+                "Damage": 60000,
+                "Cooldown": 3
+            }
+        ]
+    },
 
     "NightMarionne": {
         "Type": "AOE",
@@ -14487,6 +14526,47 @@
                 "Wither": 1.125,
                 "ShinyWither": 1.125,
                 "WitherTime": 1
+            }
+        ]
+    },
+    "Bald Man Consequences": {
+        "Type": "Slash + Passive",
+        "Image": "rbxassetid://98510603589544",
+        "Rarity": "Nightmare",
+        "PlacePrice": 99999,
+        "Offset": 0.7,
+        "Max": 1,
+        "Passive": {"Name": "Software Malfunction", "Description": "Enemies/Imps/Bosses that reach exits proc a 4 second portal that sends enemies back to the entrace they came from (60 second Global Cooldown). Gains a +25% damage bonus if other Glitched units are on the same team."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 65000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 77777,
+                "Range": 28,
+                "Damage": 88000,
+                "Cooldown": 4.6
+            },
+            {
+                "Price": 88888,
+                "Range": 35,
+                "Damage": 112000,
+                "Cooldown": 4.3
+            },
+            {
+                "Price": 99999,
+                "Range": 35,
+                "Damage": 137000,
+                "Cooldown": 4
             }
         ]
     },
