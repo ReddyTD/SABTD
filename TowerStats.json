@@ -579,6 +579,45 @@
             }
         ]
     },
+    "Banana Guy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16781017510",
+        "Rarity": "Epic",
+        "PlacePrice": 1250,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 200,
+                "Cooldown": 3
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 3
+            },
+            {
+                "Price": 4000,
+                "Range": 15,
+                "Damage": 300,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 17,
+                "Damage": 300,
+                "Cooldown": 1.5
+            }
+        ]
+    },
     "Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781017510",
