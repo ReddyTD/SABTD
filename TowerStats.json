@@ -502,7 +502,85 @@
             }
         ]
     },
- "Toy Freddy": {
+    "Error Chica": {
+        "Type": "Single",
+        "Image": "rbxassetid://16781095520",
+        "Rarity": "Rare",
+        "PlacePrice": 800,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 80,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 12,
+                "Damage": 120,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 160,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Elite Sniper Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://16781095520",
+        "Rarity": "Rare",
+        "PlacePrice": 800,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 80,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 12,
+                "Damage": 120,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 160,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+     "Toy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16781095520",
         "Rarity": "Rare",
@@ -657,6 +735,45 @@
             }
         ]
     },
+    "Astral Foxy": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16781119726",
+        "Rarity": "Secret",
+        "PlacePrice": 12500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 20000,
+                "Range": 17,
+                "Damage": 300,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 25000,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781119726",
@@ -693,6 +810,44 @@
                 "Range": 22,
                 "Damage": 500,
                 "Cooldown": 0.75
+            }
+        ]
+    },
+    "Old Goliath Guy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://17270065249",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 20,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 14,
+                "Damage": 24,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 16,
+                "Damage": 30,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 18,
+                "Damage": 36,
+                "Cooldown": 0.05
             }
         ]
     },
@@ -1114,6 +1269,45 @@
         ]
     },
  "Marionette's Puppeteer": {
+        "Type": "AOE",
+        "Image": "rbxassetid://18151575297",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.7,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 17,
+                "Damage": 2100,
+                "Cooldown": 2
+            },
+            {
+                "Price": 15000,
+                "Range": 19,
+                "Damage": 3000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 21,
+                "Damage": 3600,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+    "Royaltrap": {
         "Type": "AOE",
         "Image": "rbxassetid://18151575297",
         "Rarity": "Nightmare",
