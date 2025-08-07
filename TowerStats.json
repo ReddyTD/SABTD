@@ -3687,7 +3687,7 @@
         ]
     },
     "Champion Music Man": {
-        "Type": "AOE",
+        "Type": "Pierce",
         "Image": "rbxassetid://93098854444174",
         "Rarity": "Nightmare",
         "PlacePrice": 48000,
