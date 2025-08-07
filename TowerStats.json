@@ -2404,6 +2404,45 @@
             }
         ]
     },
+    "Old Man Gunner": {
+        "Type": "Continuous Cone AOE",
+        "Image": "rbxassetid://135056683246681",
+        "Rarity": "Nightmare",
+        "PlacePrice": 3500,
+        "Offset": 0.45,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 650,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 5000,
+                "Range": 23,
+                "Damage": 780,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 6000,
+                "Range": 26,
+                "Damage": 900,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 7000,
+                "Range": 30,
+                "Damage": 1125,
+                "Cooldown": 0.25
+            }
+        ]
+    },
     "War Machine Foxy": {
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
@@ -2484,7 +2523,7 @@
     },
     "Orange Henry": {
         "Type": "Poison",
-        "Image": "rbxassetid://18363391561",
+        "Image": "rbxassetid://107571806661175",
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
