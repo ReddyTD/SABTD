@@ -14868,14 +14868,14 @@
             }
         ]
     },
-  "The Glitched": {
-        "Type": "Single",
+    "The Glitched": {
+        "Type": "Continous Splash Slow",
         "Image": "rbxassetid://138483527366002",
-        "Rarity": "Secret",
-        "PlacePrice": 1000,
-        "Offset": 0,
-        "Max": 3,
-        "NoEnemyAttack": true,
+        "Rarity": "Apex",
+        "PlacePrice": 3000,
+        "Offset": -1,
+        "Max": 9,
+        "Passive": {"Name": "Water Pistol", "Description": "Enemies hit by this unit are slowed by 65% for 0.5 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -14885,34 +14885,34 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 1500,
-                "Cooldown": 2,
-                "Slow": 0.5,
-                "SlowTime": 1
+                "Damage": 9999999999,
+                "Cooldown": 0.25,
+                "Slow": 0.35,
+                "SlowTime": 0.5
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 1500,
+                "Price": 4000,
+                "Range": 24,
+                "Damage": 99999999999999999999,
                 "Cooldown": 0.25,
-                "Slow": 0.5,
-                "SlowTime": 1
+                "Slow": 0.35,
+                "SlowTime": 0.5
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 1500,
+                "Price": 5000,
+                "Range": 27,
+                "Damage": 999999999999999999999999999999,
                 "Cooldown": 0.25,
-                "Slow": 0.5,
-                "SlowTime": 1
+                "Slow": 0.35,
+                "SlowTime": 0.5
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 1500,
+                "Price": 6000,
+                "Range": 30,
+                "Damage": 9999999999999999999999999999999999999999,
                 "Cooldown": 0.25,
-                "Slow": 0.5,
-                "SlowTime": 1
+                "Slow": 0.35,
+                "SlowTime": 0.5
             }
         ]
     },
