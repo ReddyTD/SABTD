@@ -14872,7 +14872,7 @@
         "Type": "Continous Splash Slow",
         "Image": "rbxassetid://138483527366002",
         "Rarity": "Apex",
-        "PlacePrice": 3000,
+        "PlacePrice": 300,
         "Offset": -1,
         "Max": 9,
         "Passive": {"Name": "Water Pistol", "Description": "Enemies hit by this unit are slowed by 65% for 0.5 seconds."},
@@ -14884,25 +14884,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
+                "Range": 99,
                 "Damage": 9999999999,
-                "Cooldown": 3,
+                "Cooldown": 0.001,
                 "Slow": 0.35,
                 "SlowTime": 0.5
             },
             {
-                "Price": 4000,
-                "Range": 24,
+                "Price": 1234,
+                "Range": 99,
                 "Damage": 99999999999999999999,
-                "Cooldown": 3,
+                "Cooldown": 0.001,
                 "Slow": 0.35,
                 "SlowTime": 0.5
             },
             {
-                "Price": 5000,
-                "Range": 27,
+                "Price": 1234,
+                "Range": 99,
                 "Damage": 999999999999999999999999999999,
-                "Cooldown": 3,
+                "Cooldown": 0.001,
                 "Slow": 0.35,
                 "SlowTime": 0.5
             },
