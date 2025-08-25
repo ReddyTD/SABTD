@@ -659,8 +659,8 @@
     "Withered Golden Freddy": {
         "Type": "Single Wither",
         "Image": "rbxassetid://16781122207",
-        "Rarity": "Nightmare",
-        "PlacePrice": 4000,
+        "Rarity": "Secret",
+        "PlacePrice": 3000,
         "Max": 4,
         "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
         "hitboxOffset": {
@@ -870,7 +870,7 @@
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
         "Rarity": "Secret",
-        "PlacePrice": 500,
+        "PlacePrice": 700,
         "Offset": 0.55,
         "Max": 3,
         "Passive": {"Name": "Pirate's Curse", "Description": "Targeted enemies take 25% more damage for 1 second"},
