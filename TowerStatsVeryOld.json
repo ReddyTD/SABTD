@@ -830,10 +830,10 @@
         ]
     },
     "Rockin Bonnie": {
-        "Type": "AOE",
+        "Type": "Single",
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
-        "PlacePrice": 500,
+        "PlacePrice": 100,
         "Max": 5,
         "hitboxOffset": {
             "X": 0,
@@ -845,25 +845,25 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 0.5
+                "Cooldown": 0.3
             },
             {
                 "Price": 800,
                 "Range": 18,
                 "Damage": 125,
-                "Cooldown": 0.5
+                "Cooldown": 0.3
             },
             {
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 150,
-                "Cooldown": 0.5
+                "Cooldown": 0.3
             },
             {
                 "Price": 1600,
                 "Range": 20,
                 "Damage": 175,
-                "Cooldown": 0.5
+                "Cooldown": 0.3
             }
         ]
     },
