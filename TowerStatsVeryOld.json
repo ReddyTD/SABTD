@@ -1173,7 +1173,7 @@
         ]
     },
     "Seven Seas Foxy": {
-        "Type": "Pierce",
+        "Type": "Single Ltae",
         "Image": "rbxassetid://18255813345",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -1188,25 +1188,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 600,
+                    "Damage": 2000,
                 "Cooldown": 3.5
             },
             {
                 "Price": 7500,
                 "Range": 27,
-                "Damage": 800,
+                "Damage": 8000,
                 "Cooldown": 3.4
             },
             {
                 "Price": 10000,
                 "Range": 30,
-                "Damage": 1100,
+                "Damage": 11000,
                 "Cooldown": 3.2
             },
             {
                 "Price": 12500,
                 "Range": 30,
-                "Damage": 1350,
+                "Damage": 13500,
                 "Cooldown": 3
             }
         ]
@@ -1303,30 +1303,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 0,
+                "Damage": 10,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
             },
             {
                 "Price": 1200,
                 "Range": 15,
-                "Damage": 0,
+                "Damage": 20,
                 "Cooldown": 1,
-                "RangeBoost": 1.1
             },
             {
                 "Price": 1400,
                 "Range": 15,
-                "Damage": 0,
+                "Damage": 30,
                 "Cooldown": 1,
-                "RangeBoost": 1.15
             },
             {
                 "Price": 1800,
                 "Range": 15,
-                "Damage": 0,
+                "Damage": 40,
                 "Cooldown": 1,
-                "RangeBoost": 1.2
             }
         ]
     },
