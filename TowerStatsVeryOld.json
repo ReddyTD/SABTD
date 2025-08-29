@@ -1370,7 +1370,7 @@
         ]
     },
     "Patriot Freddy": {
-        "Type": "Explosion",
+        "Type": "Single",
         "Image": "rbxassetid://18326604996",
         "Rarity": "Secret",
         "PlacePrice": 300,
@@ -1386,25 +1386,25 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 100,
-                "Cooldown": 4
+                "Cooldown": 1
             },
             {
                 "Price": 500,
                 "Range": 18,
                 "Damage": 150,
-                "Cooldown": 3.8
+                "Cooldown": 0.8
             },
             {
                 "Price": 800,
                 "Range": 20,
                 "Damage": 200,
-                "Cooldown": 3.7
+                "Cooldown": 0.7
             },
             {
                 "Price": 1200,
                 "Range": 22,
                 "Damage": 250,
-                "Cooldown": 3.5
+                "Cooldown": 0.5
             }
         ]
     },
