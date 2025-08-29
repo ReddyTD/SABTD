@@ -1806,13 +1806,13 @@
             }
         ]
     },
-    "Amalgam": {
-        "Type": "Single",
+      "Amalgam": {
+        "Type": "Continuous Slow",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 2,
-        "Passive": {"Phantom"},
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1822,28 +1822,28 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 10,
+                "Damage": 0,
                 "Cooldown": 0.05,
                 "Slow": 0.8
             },
             {
                 "Price": 2400,
                 "Range": 17,
-                "Damage": 11,
+                "Damage": 0,
                 "Cooldown": 0.05,
                 "Slow": 0.7
             },
             {
                 "Price": 3000,
                 "Range": 20,
-                "Damage": 12,
+                "Damage": 0,
                 "Cooldown": 0.05,
                 "Slow": 0.6
             },
             {
                 "Price": 4000,
                 "Range": 25,
-                "Damage": 13,
+                "Damage": 0,
                 "Cooldown": 0.05,
                 "Slow": 0.5
             }
