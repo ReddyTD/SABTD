@@ -1971,10 +1971,10 @@
     "Sentinel Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 3000,
         "Offset": 0.35,
-        "Max": 1,
+        "Max": 3,
         "Passive": {"Name": "Bleed", "Description": "Targetted enemies suffer from 100% Anti Regen for 1 second."},
         "hitboxOffset": {
             "X": 0,
