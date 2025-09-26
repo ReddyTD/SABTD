@@ -15296,7 +15296,7 @@
     "FNTD 2 Endo": {
         "Type": "Pierce",
         "Image": "rbxassetid://83771317049891",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 1,
         "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 20% (8.5% to Bosses/Imps) and attacks apply 10% Wither."},
