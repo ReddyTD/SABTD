@@ -3286,7 +3286,7 @@
         ]
     },
     "Flame Empress Chica": {
-        "Type": "Nuke Burn",
+        "Type": "AOE",
         "Image": "rbxassetid://18971134114",
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
