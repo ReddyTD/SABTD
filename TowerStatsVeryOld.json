@@ -15334,7 +15334,7 @@
         ]
     },
     "FNTD 2 Freddy": {
-        "Type": "Pierce",
+        "Type": "AOE",
         "Image": "rbxassetid://101957224781287",
         "Rarity": "Nightmare",
         "PlacePrice": 9000,
